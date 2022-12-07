@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning html,css,javascript and react.
 - 💞️ I’m looking to collaborate on software.
-- 📫 How to reach me ...
+- 📫 How to reach me busra_kosger@hotmail.com
 
 <!---
 Busrakosger/Busrakosger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
